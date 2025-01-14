@@ -1,4 +1,4 @@
-# Algorithmic Trading with Python and Machine Learning
+# Algorithmic Trading (Python/ML)
 
 ## Overview
 This project showcases the creation of algorithmic trading strategies using Python, with a focus on integrating machine learning techniques to enhance decision-making. Key features include backtesting engines, real-time data integration, and predictive models powered by TensorFlow and Keras.
