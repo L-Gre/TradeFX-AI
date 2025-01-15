@@ -6,8 +6,8 @@ This project showcases the creation of algorithmic trading strategies using Pyth
 ## Key Features
 - **Backtesting Engine**: Evaluate trading strategies using historical data with Python, Pandas, and NumPy.
 - **Real-Time Data Integration**: Connect with broker APIs (OANDA) for live trading.
-- **Machine Learning Models**: Utilize TensorFlow and Keras for predictive modeling to forecast market trends.
-- **Technical Indicators**: Implement and analyze popular trading indicators like moving averages and RSI.
+- **Machine Learning Models**: Utilise TensorFlow and Keras for predictive modelling to forecast market trends.
+- **Technical Indicators**: Implement and analyse popular trading indicators like moving averages and RSI.
 - **Risk Management**: Design strategies with an emphasis on managing trading risks effectively.
 - **AWS Integration**: Use AWS for scalable data storage and computation.
 
