@@ -3,3 +3,6 @@ study_notes/
 
 # .env
 .env
+
+# config
+*.cfg
