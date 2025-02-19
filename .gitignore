@@ -6,3 +6,6 @@ study_notes/
 
 # config
 *.cfg
+
+# exercise
+Exercise_*
