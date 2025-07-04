@@ -9,3 +9,7 @@ study_notes/
 
 # exercise
 Exercise_*
+
+# file types
+*.csv
+*.xls
